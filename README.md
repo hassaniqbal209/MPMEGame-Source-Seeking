@@ -1,4 +1,8 @@
-# MPMEGame-Source-Seeking
- Multiple pursuer multiple evader game to seek extremum in dynamical flow-field
+# ase-389-source-seeking-dyn-flowfield
+ ASE 389 Modeling Multi-Agent Systems
 
-In this work, I am developing a distributed hybrid controller for solving online source seeking problem in a dynamical environment. By formulating the problem as a multiple pursuer multiple evaders game, my team members adn I simultaneously addresses the problem of discrete assignment of mobile robots to sources as well as the continuous controls strategies for capturing individual sources of external dynamic flow-field, such that evaders are its sources moving passively and pursuers kinodynamic model is affected by external velocity. As an extension, we are working to make the external flow field adversarial.
+# view webpage locally
+
+```
+python3 -m http.server
+```
